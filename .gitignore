@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 *.csv
 .DS_Store
-*/.DS_Store
+*/.
+data
+
